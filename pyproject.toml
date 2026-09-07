@@ -1,0 +1,15 @@
+[project]
+name = "dat200-nmbu"
+version = "0.1.0"
+description = "DAT200 at NMBU"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "mlxtend>=0.25.0",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "plotly>=7.0.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+]
